@@ -1,0 +1,10 @@
+null null null null null 2 4 8 64 1024 
+null null null null null null 2 64 256 16384 
+null null null null null null 2 128 512 65536 
+null null null null null 4 2 256 2048 131072 
+null null null null null 8 2 1024 8192 524288 
+null null null null null null 8 256 65536 1048576 
+null null null null 4 16 32 512 8192 262144 
+null null null null 2 8 32 256 4096 65536 
+null null null null null 16 256 8 1024 8192 
+null null null null 2 8 64 16 512 2048 
